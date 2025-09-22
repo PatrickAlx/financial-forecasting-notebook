@@ -24,9 +24,9 @@ Required Python libraries
 
 ## How to Run
 
-git clone 
+git clone https://github.com/PatrickAlx/financial-forecasting-notebook.git
 
-cd 
+cd financial-forecasting-notebook
 
 pip install -r requirements.txt
 
